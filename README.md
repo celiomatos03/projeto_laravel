@@ -11,7 +11,7 @@
 - php artisan serve 
 
 ---
-Toda vez que for enviar um git
+## Toda vez que for enviar um git
 
 - git add .
 - git commit -m "Comentario do que foi feito"
