@@ -9,3 +9,10 @@
 - php artisan migrate
 
 - php artisan serve 
+
+---
+Toda vez que for enviar um git
+
+- git add .
+- git commit -m "Comentario do que foi feito"
+- git push origin master
